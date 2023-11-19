@@ -1,0 +1,17 @@
+﻿@page "/"
+@using Lab6.Data
+@inject NavigationManager _nav
+
+<PageTitle>Library Management System</PageTitle>
+
+<h1>Library Management System</h1>
+
+<button @onclick="@(()=>_nav.NavigateTo("/ManageBooks"))">Manage Books</button><br />
+<button @onclick="@(()=>_nav.NavigateTo("/ManageUsers"))">Manage Users</button>
+<br />
+<button @onclick="@(()=>_nav.NavigateTo("/BorrowBook"))">Borrow Book</button>
+<br />
+<br />
+
+}
+

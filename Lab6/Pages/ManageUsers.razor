@@ -1,0 +1,72 @@
+﻿@page "/ManageUsers"
+@inject NavigationManager _nav
+@using Lab6.Data
+@using Lab6.Services
+@inject IUserList UserSee
+
+<h1>Manage Users</h1>
+
+<h3>Add User</h3>
+Enter User Name: <input @bind=Name /> <br />
+Enter Email: <input @bind=Email /> <br />
+<button @onclick=AddUser>Add</button><br />
+
+<br />
+<h3>Edit Users</h3>
+Enter the Id of the user you wish to change. Leave a field empty if you wish to keep it the same. <br />
+User Id: <input @bind=Id /><br />
+New User Name: <input @bind=editName /><br />
+New Email: <input @bind=editEmail /><br />
+<button @onclick=EditUser>Edit</button> <br>
+
+<br />
+<h3>Delete User</h3>
+Enter the Id of the user you wish to delete. <br />
+User Id: <input @bind=deleteId /><br />
+<button @onclick=DeleteUser>Delete</button> <br />
+
+<br />
+<h3>List of Users</h3>
+@foreach (var thing in UserSee.users)
+{
+    <span>@thing.Id | @thing.Name, @thing.Email </span>
+    <br />
+}
+
+<button @onclick="@(()=>_nav.NavigateTo("/"))">Return</button>
+
+@code {
+    int Id;
+    string Name;
+    string Email;
+
+    string editName;
+    string editEmail;
+
+    int deleteId;
+
+    public async Task AddUser()
+    {
+        UserSee.users.Add(new User()
+        {
+            Name = Name,
+            Email = Email,
+            Id = UserSee.users.Any() ? UserSee.users.Max(u => u.Id) + 1 : 1
+        });
+    }
+
+    public async Task EditUser()
+    {
+        //TODO - Leaving the field blank does not keep the previous entry, not high priority so will look at later
+        User user = UserSee.users.FirstOrDefault(b => b.Id == Id);
+        if ((!string.IsNullOrEmpty(Name))) user.Name = editName;
+
+        if ((!string.IsNullOrEmpty(Email))) user.Email = editEmail;
+    }
+
+    public async Task DeleteUser()
+    {
+        User user = UserSee.users.FirstOrDefault(b => b.Id == deleteId);
+        if (user != null) UserSee.users.Remove(user);
+    }
+}

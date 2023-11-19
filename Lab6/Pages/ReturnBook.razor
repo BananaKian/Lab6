@@ -1,0 +1,17 @@
+﻿@page "/ReturnBook"
+@inject NavigationManager _nav
+@using Lab6.Data
+@using Lab6.Services
+@inject IBookList BookSee
+@inject IUserList UserSee
+
+
+<h3>Return Book</h3>
+
+<button @onclick="@(()=>_nav.NavigateTo("/"))">Return</button>
+
+@code {
+    int userId;
+
+
+}

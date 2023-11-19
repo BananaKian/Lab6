@@ -1,0 +1,75 @@
+﻿@page "/BorrowBook"
+@inject NavigationManager _nav
+@using Lab6.Data
+@using Lab6.Services
+@inject IBookList BookSee
+@inject IUserList UserSee
+
+<h1>Borrow Book</h1>
+
+<h3>List of Books</h3>
+@foreach (var thing in BookSee.Books)
+{
+    <span>@thing.Id | @thing.Title by @thing.Author (ISBN: @thing.ISBN) </span>
+    <br />
+}
+<br />
+From the list above, please input the Id of the book you wish to borrow. <br />
+<input @bind=bookId /> <br />
+Input the Id of the user wanting to borrow this book. <br />
+<input @bind=userId /><br />
+<button @onclick=BorrowBooks>Borrow</button> <br />
+<br />
+
+<h3>Return Book</h3>
+
+
+If you have a book you wish to return, enter your user ID here<br />
+<input @bind=userIdReturn /> <br />
+Enter the Id of the book you are returning: <input @bind=bookIdReturn /><br />
+<button @onclick=ReturnBooks>Return</button><br />
+
+<button @onclick="@(()=>_nav.NavigateTo("/"))">Previous</button>
+
+@code {
+    int bookId;
+    int userId;
+
+    int userIdReturn;
+    int bookIdReturn;
+
+    public Dictionary<User, List<Book>> borrowedBooks = new Dictionary<User, List<Book>>();
+
+    public async Task BorrowBooks()
+    {
+        Book book = BookSee.Books.FirstOrDefault(b => b.Id == bookId);
+
+        if (book != null && BookSee.Books.Count(b => b.Id == bookId) > 0)
+        {
+            User user = UserSee.users.FirstOrDefault(b => b.Id == userId);
+            if (user != null)
+            {
+                if (!borrowedBooks.ContainsKey(user))
+                {
+                    borrowedBooks[user] = new List<Book>();
+                }
+                borrowedBooks[user].Add(book);
+                BookSee.Books.Remove(book);
+            }
+        }
+
+    }
+
+    public async Task ReturnBooks()
+    {
+        User user = UserSee.users.FirstOrDefault(b => b.Id == userIdReturn);
+        if (user != null && borrowedBooks.ContainsKey(user) && borrowedBooks[user].Count > 0)
+        {
+            Book bookToReturn = borrowedBooks[user][bookIdReturn - 1];
+
+            borrowedBooks[user].RemoveAt(bookIdReturn - 1);
+            BookSee.Books.Add(bookToReturn);
+        }
+    }
+
+}

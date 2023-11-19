@@ -1,0 +1,153 @@
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\appsettings.json
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Lab6.staticwebassets.runtime.json
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.RazorAssemblyInfo.cache
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.RazorAssemblyInfo.cs
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.Lab6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab6.props
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab6.props
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab6.props
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\scopedcss\bundle\Lab6.styles.css
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\scopedcss\projectbundle\Lab6.bundle.scp.css
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CopyComplete
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\appsettings.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.staticwebassets.runtime.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.RazorAssemblyInfo.cache
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.RazorAssemblyInfo.cs
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.Lab6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab6.props
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab6.props
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab6.props
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\bundle\Lab6.styles.css
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\projectbundle\Lab6.bundle.scp.css
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CopyComplete
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+C:\Users\robertsej1\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\appsettings.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.staticwebassets.runtime.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Buttons.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Core.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Data.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.DropDowns.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Inputs.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Notifications.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Popups.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.Spinner.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Blazor.SplitButtons.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\Syncfusion.Licensing.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.RazorAssemblyInfo.cache
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.RazorAssemblyInfo.cs
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.Lab6.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab6.props
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab6.props
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab6.props
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\bundle\Lab6.styles.css
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\scopedcss\projectbundle\Lab6.bundle.scp.css
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CopyComplete
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+C:\Users\Owner\OneDrive - East Tennessee State University\Server Side Labs\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll

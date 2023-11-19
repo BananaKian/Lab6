@@ -1,0 +1,86 @@
+﻿@page "/ManageBooks"
+@inject NavigationManager _nav
+@using Lab6.Data
+@using Lab6.Services
+@inject IBookList BookSee
+
+<h1>Manage Books</h1>
+
+<h3>Add Book</h3>
+Book Title: <input @bind=Title /> <br />
+Author: <input @bind=Author /> <br />
+ISBN: <input @bind=ISBN /> <br />
+<button @onclick=AddBook>Add</button><br />
+
+<br />
+<h3>Edit Book</h3>
+To edit a book, please input its ID and updated information. Leave a field blank to keep it the same. <br />
+Book ID: <input @bind=Id /> <br />
+Book Title: <input @bind=editTitle /> <br />
+Author: <input @bind=editAuthor /><br />
+ISBN: <input @bind=editISBN /> <br />
+<button @onclick=EditBook>Edit</button> <br />
+
+<br />
+<h3>Delete Book</h3>
+Enter the ID of the book you wish to delete. <br />
+Book ID: <input @bind=deleteId /> <br />
+<button @onclick=DeleteBook>Delete</button> <br />
+<br />
+
+<br />
+<h3>List of Books</h3>
+@foreach (var thing in BookSee.Books)
+{
+    <span>@thing.Id | @thing.Title by @thing.Author (ISBN: @thing.ISBN) </span>
+    <br />
+}
+<br />
+<button @onclick="@(()=>_nav.NavigateTo("/"))">Return</button>
+
+
+@code {
+    int Id;
+    string Title = "";
+    string Author = "";
+    string ISBN = "";
+
+    string editTitle = "";
+    string editAuthor = "";
+    string editISBN = "";
+
+    int deleteId;
+
+    public async Task AddBook()
+    {
+        BookSee.Books.Add(new Book()
+            {
+                Title = Title,
+                Author = Author,
+                ISBN = ISBN,
+                Id = BookSee.Books.Any() ? BookSee.Books.Max(b => b.Id) + 1 : 1
+            });       
+    }
+
+    public async Task EditBook()
+    {
+        //TODO - Leaving the field blank does not keep the previous entry, not high priority so will look at later
+        Book book = BookSee.Books.FirstOrDefault(b => b.Id == Id);
+        if ((!string.IsNullOrEmpty(Title))) book.Title = editTitle;
+
+        if ((!string.IsNullOrEmpty(Title))) book.Author = editAuthor;
+
+        if ((!string.IsNullOrEmpty(Title))) book.ISBN = editISBN;
+    }
+
+    public async Task DeleteBook()
+    {
+        Book book = BookSee.Books.FirstOrDefault(b => b.Id == deleteId);
+
+        if (book != null) BookSee.Books.Remove(book);                         
+    }
+
+
+
+
+}
